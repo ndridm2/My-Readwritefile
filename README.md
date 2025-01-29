@@ -1,8 +1,8 @@
-##MyReadWriteFile
+## MyReadWriteFile
 📌 Project Overview
 MyReadWriteFile adalah aplikasi sederhana berbasis Kotlin yang memungkinkan pengguna membaca dan menulis data ke dalam file lokal pada perangkat Android. Proyek ini bertujuan untuk memahami konsep penyimpanan file di Android dengan menggunakan Internal Storage.
 
-##📂 Fitur Utama
+## 📂 Fitur Utama
 ✅ Membuat dan menyimpan file teks di penyimpanan internal 📄
 ✅ Membaca isi file yang telah disimpan 👀
 ✅ Menghapus file jika tidak diperlukan ❌
@@ -13,7 +13,7 @@ MyReadWriteFile adalah aplikasi sederhana berbasis Kotlin yang memungkinkan peng
 3️⃣ Membuat FileHelper untuk menangani operasi baca, tulis, dan hapus file 🔧
 4️⃣ Mengimplementasikan FileHelper ke dalam Activity, sehingga pengguna dapat berinteraksi dengan file 🎯
 
-##🔍 Detail Implementasi
+## 🔍 Detail Implementasi
 📌 1. FileModel (Model Data)
 FileModel berfungsi sebagai tempat penyimpanan sementara data yang akan dibaca atau ditulis ke dalam file.
 
@@ -26,12 +26,12 @@ Kelas ini berisi metode untuk:
 📌 3. Mengimplementasikan FileHelper ke dalam Activity
 FileHelper digunakan dalam Activity agar pengguna dapat menulis, membaca, dan menghapus file melalui antarmuka aplikasi.
 
-##🚀 Teknologi yang Digunakan
+## 🚀 Teknologi yang Digunakan
 Kotlin (Bahasa Pemrograman)
 Android SDK (Internal Storage API)
 MVVM (Model-View-ViewModel) (Opsional)
 
-##📌 Cara Menjalankan Proyek
+## 📌 Cara Menjalankan Proyek
 1️⃣ Clone repository ini:
 sh
 Copy
@@ -40,6 +40,6 @@ git clone https://github.com/username/MyReadWriteFile.git
 2️⃣ Buka project di Android Studio
 3️⃣ Jalankan aplikasi menggunakan emulator atau perangkat fisik
 
-##🎯 Kesimpulan
+## 🎯 Kesimpulan
 Proyek MyReadWriteFile ini mengajarkan bagaimana cara menyimpan data menggunakan Internal Storage di Android menggunakan Kotlin. Implementasi ini dapat diperluas untuk menyimpan data lebih kompleks, seperti format JSON atau database lokal.
 
