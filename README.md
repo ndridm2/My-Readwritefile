@@ -10,7 +10,7 @@ MyReadWriteFile adalah aplikasi sederhana berbasis Kotlin yang memungkinkan peng
 
 ✅ Menghapus file jika tidak diperlukan ❌
 
-##🛠 Struktur Proyek
+## 🛠 Struktur Proyek
 1️⃣ Membuat project baru dengan nama MyReadWriteFile 📌
 
 2️⃣ Membuat FileModel sebagai model data untuk menyimpan informasi pengguna 💾
